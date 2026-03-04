@@ -256,6 +256,23 @@ section {
   text-decoration:none;
 }
 
+@media (max-width:768px){
+
+  .menu-grid{
+    grid-template-columns:1fr;
+  }
+
+  #cart{
+    width:90%;
+    right:5%;
+  }
+
+  .hero{
+    height:70vh;
+  }
+
+  }
+
 footer {
   text-align:center;
   padding:20px;
