@@ -1,0 +1,1 @@
+{\n  \"name\": \"restaurant-demo\",\n  \"version\": \"1.0.0\",\n  \"main\": \"backend/server.js\",\n  \"dependencies\": {\n    \"express\": \"^4.17.3\",\n    \"mongodb\": \"^4.1.0\",\n    \"analytics-node\": \"^8.4.3\"\n  }\n}
